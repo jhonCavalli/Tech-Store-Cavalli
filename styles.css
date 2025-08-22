@@ -76,6 +76,24 @@ header {
     color: var(--primary-color);
 }
 
+.container-categorias {
+    display: flex;
+    justify-content: center;
+    background-color: var(--secondary-color);
+}
+
+.container-categorias nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    width:100%;
+    max-width: 1200px;
+    padding: 8px 32px;
+}
+
+
+
 
 
 
