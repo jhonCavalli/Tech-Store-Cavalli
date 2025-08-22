@@ -27,13 +27,13 @@ h1 {
     font-size: 32px;
     font-weight: bold;
 }
- span {
+span {
     color: var(--primary-color);
     font-size: 32px;
     font-weight: bold;
  }
 
- header {
+header {
     background-color: var(--white-color) ;
     padding: 16px 32px;
     display: flex;
@@ -45,6 +45,12 @@ h1 {
     display: flex;
     align-items: center;
     gap: 16px;
+}
+
+.fa-bolt {
+    color: var(--primary-color);
+    font-size: 32px;
+
 }
 
 
