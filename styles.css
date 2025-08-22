@@ -15,13 +15,26 @@
     --hover-btn: rgba(255, 255, 255, 0.1);
 }
 
-
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: var(--text-color);
+    background-color: var(--light-gray);
+    line-height: 1.6; /* altura de linha */
+}
 
 h1 {
     color: var(--text-color);
 }
  span {
-    color: var( --primary-color);
+    color: var(--primary-color)
  }
 
- 
+ header {
+    background-color: var(--white-color) ;
+    padding: 16px 32px;
+    display: flex;
+    
+ }
+
+
+
