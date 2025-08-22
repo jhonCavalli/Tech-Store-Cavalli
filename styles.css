@@ -106,9 +106,20 @@ header {
 
 .botao-categorias:hover {
     background-color: var(--hover-btn);
-    
 }
 
+.botao-categorias.ativo{
+    background-color: var(--primary-color);
+}
+
+.secao-hero {
+    color: var(--white-color);
+    text-align: center;
+    padding: 48px 32px;
+    background: #3F5EFB;
+    background: radial-gradient(circle,rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+
+}
 
 
 
