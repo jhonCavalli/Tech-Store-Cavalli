@@ -4,3 +4,19 @@
     box-sizing: border-box;
 }
 
+:root {
+    --primary-color: #FF4111;
+    --secondary-color: #2C3E50;
+    --accent-color: #3498DB;
+    --text-color: #2C3E50;
+    --light-gray: #F8F9FA;
+    --border-color: #E9ECEF;
+    --white-color: #FFFFFF;
+    --hover-btn: rgba(255, 255, 255, 0.1);
+}
+
+
+
+h1 {
+    
+}
