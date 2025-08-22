@@ -104,7 +104,8 @@ header {
     cursor: pointer;
 }
 
-.botao-categorias :hover {
+.botao-categorias:hover {
+    background-color: var(--hover-btn);
     
 }
 
