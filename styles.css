@@ -50,8 +50,18 @@ header {
 .fa-bolt {
     color: var(--primary-color);
     font-size: 32px;
-
 }
+
+.container-busca {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 32px;
+    display: flex;
+    align-items: center;
+    padding: 8px 16px;
+}
+
+
 
 
 
