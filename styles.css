@@ -18,5 +18,10 @@
 
 
 h1 {
-    
+    color: var(--text-color);
 }
+ span {
+    color: var( --primary-color);
+ }
+
+ 
